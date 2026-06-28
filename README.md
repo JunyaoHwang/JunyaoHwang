@@ -8,14 +8,14 @@
 
 <table align="center">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="420">
 
 ### 🔭 我在做什么
 - 基于 PID 信息论的多模态解耦
 - Agent 创意设计，应用开发
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="420">
 
 ### 🚀 我的爱好
 - 乒乓球 🏓
@@ -26,5 +26,8 @@
 </table>
 
 <div align="center">
+
+### 📫 联系我
+827yao@gmail.com
 
 </div>
