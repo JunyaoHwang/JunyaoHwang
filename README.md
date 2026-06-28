@@ -1,30 +1,30 @@
 <div align="center">
 
-# 你好，我是Junyao👋
-人工智能相关专业学生 / 开发者，热衷Agent相关的创意设计
+# 你好，我是 Junyao 👋
 
-## 🔭 我在做什么
-- 基于PID信息论的多模态解耦
-- Agent创意设计，应用开发
+人工智能相关专业学生 / 开发者，热衷 Agent 相关的创意设计
 
-## 🚀 我的爱好
+</div>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+### 🔭 我在做什么
+- 基于 PID 信息论的多模态解耦
+- Agent 创意设计，应用开发
+
+</td>
+<td valign="top" width="50%">
+
+### 🚀 我的爱好
 - 乒乓球 🏓
 - 棋牌博弈 🀄
 
-## 📫联系我
-827yao@gmail.com
-<\div>
-<!--
-**JunyaoHwang/JunyaoHwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</td>
+</tr>
+</table>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
