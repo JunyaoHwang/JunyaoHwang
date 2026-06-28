@@ -1,4 +1,12 @@
-## Hi there 👋
+# 你好，我是Junyao👋
+人工智能相关专业学生 / 开发者，热衷Agent相关的创意设计
+
+## 🔭 我在做什么
+- 基于PID信息论的多模态解耦
+- 学习深度学习,优化理论
+
+## 📫联系我
+827yao@gmail.com
 
 <!--
 **JunyaoHwang/JunyaoHwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
